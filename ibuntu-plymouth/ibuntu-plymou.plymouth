@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=iBuntu Plymouth
+Description=A Plymouth for iBuntu OS based on Darwin
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/ibuntu-plymouth
+ScriptFile=/usr/share/plymouth/themes/ibuntu-plymouth/ibuntu-plymouth.script
